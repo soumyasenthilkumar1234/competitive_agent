@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-google-genai
+firecrawl-py
+python-dotenv
+fastapi
+uvicorn
+pydantic
+langchain-groq
