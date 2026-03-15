@@ -1,13 +1,13 @@
-# 🚀 Competitive Intelligence Agent (PS-D3)
+#  Competitive Intelligence Agent (PS-D3)
 
 An autonomous agentic system designed to transform raw e-commerce data into high-impact competitive strategies.
 
 ---
 
-## 🚩 Problem Statement
+##  Problem Statement
 In the fast-paced Indian e-commerce market (Amazon, Flipkart, etc.), sellers struggle to keep up with competitors. Manual analysis of pricing trends, customer sentiment, and inventory volume is **slow, fragmented, and error-prone**. Sellers often find themselves reactive rather than proactive, losing market share due to delayed pricing adjustments or missed product quality signals.
 
-## 🎯 Objective
+##  Objective
 The objective of this project is to build a **Multi-Agent Intelligence Layer** that:
 1.  **Discoveries**: Automatically identifies relevant competitors based on a single product URL.
 2.  **Analyzes**: Benchmarks the seller's product against the market across Price, Sentiment, and Scale.
@@ -15,7 +15,7 @@ The objective of this project is to build a **Multi-Agent Intelligence Layer** t
 
 ---
 
-## 🤖 Agents Used
+##  Agents Used
 This system leverages a sophisticated **Agentic Workflow** built with LangGraph:
 
 1.  **Ingestion Agent**: 
@@ -30,7 +30,7 @@ This system leverages a sophisticated **Agentic Workflow** built with LangGraph:
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 *   **Frontend**: `Next.js 14`, `React`, `Tailwind CSS`, `Lucide Icons` (Premium Dark UI).
 *   **Backend**: `Python 3.10+`, `LangGraph` (Agent Orchestration), `LangChain`.
 *   **Discovery**: `DuckDuckGo Search API`, `BeautifulSoup4`.
@@ -39,18 +39,18 @@ This system leverages a sophisticated **Agentic Workflow** built with LangGraph:
 
 ---
 
-## 💡 Solution
+## Solution
 Our solution provides a **Unified Competitive Dashboard**. 
 Instead of looking at spreadsheets, a seller simply enters their product URL. The agents take over, crawling the web and returning a **Comparative Matrix** that doesn't just show numbers, but explains **why they matter**. Our unique "Opportunity" engine provides human-readable strategic advice, allowing sellers to make data-backed decisions in seconds rather than hours.
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 The Competitive Intelligence Agent successfully demonstrates how **Autonomous Agentic Layers** can bridge the gap between Big Data and Business Strategy. By automating the discovery and benchmarking phases, we empower small and medium sellers to compete with giant brands by making their marketing and pricing moves smarter, faster, and more precise.
 
 ---
 
-## 🛠️ Startup Guide
+##  Startup Guide
 
 ### 1. Prerequisites
 - Node.js (v18+)
